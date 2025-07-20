@@ -29,3 +29,12 @@ print(f" powerful flavour: {powerful_flavour}")
 
 total_tea_leaves_harvested = 1_000_000_000
 print(f" total tea harvested: {total_tea_leaves_harvested}")
+
+# OUTPUT 
+# Total grams: 17
+#  Reamining tea: 11
+#  milk per serving: 1.75
+#  Total tea bags: 1
+#  total leftover pods: 3
+#  powerful flavour: 8
+#  total tea harvested: 1000000000
