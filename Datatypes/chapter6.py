@@ -15,7 +15,7 @@ print(f" Encoded label: {encoded_label}")
 decoded_label=encoded_label.decode("utf-8")
 print(f" Decoded label: {decoded_label}")
 
-# OUTPUT
+## OUTPUT
 # Order for Priya : chai type Ginger Chai
 # Print first word: Aromati
 # Print word: Aromat
