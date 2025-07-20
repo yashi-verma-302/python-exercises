@@ -10,3 +10,8 @@ water_hot = True
 tea_added = True
 can_serve = water_hot and tea_added
 print(f" Can serve tea? {can_serve}")
+
+# Output 
+# total actions: 6
+#  Is there milk? False
+#  Can serve tea? True
