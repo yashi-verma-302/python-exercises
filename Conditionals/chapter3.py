@@ -1,2 +1,0 @@
-## Chai Price Calculator
-
