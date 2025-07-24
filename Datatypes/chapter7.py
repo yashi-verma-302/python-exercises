@@ -12,7 +12,7 @@ print(f"Ratio is G: {ginger_ratio} and C: {cardamom_ratio}")
 
 print(f"Is Ginger is present in masala spices ? {'ginger' in masala_spices}")
 
-# Output
+##Output
 # Main masala spices: cardamom cloves cinnamom
 # Ratio is G: 2 and C: 1
 # Ratio is G: 1 and C: 2
