@@ -25,8 +25,7 @@ class Movie:
 # Test
 movie1 = Movie("Inception", "Sci-Fi", 100)
 
-movie1.book_ticket(5)  # Output: 5 ticket(s) booked successfully.
+movie1.book_ticket(5)
 print("Available seats:", movie1.available_seats())  # Output: 95
 
-movie1.book_ticket(96)  # Output: Not enough seats available.
-
+movie1.book_ticket(96)
